@@ -1,0 +1,11 @@
+{
+  "id": "ORDER-123",
+  "status": "COMPLETED",
+  "amount": { "value": "49.99", "currency": "USD" },
+  "payer": {
+    "name": { "given_name": "ANON", "surname": "ANON" },
+    "email_address": "anon+e3b0c4@example.com",
+    "payer_id": "ANON-PAYER"
+  }
+}
+
